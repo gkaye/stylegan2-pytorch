@@ -131,3 +131,10 @@ dmypy.json
 wandb/
 *.lmdb/
 *.pkl
+
+# Don't commit the venv environment
+venv_environment
+
+# Too big, don't commit
+stylegan2-ffhq-config-f.pt
+
