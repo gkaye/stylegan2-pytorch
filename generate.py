@@ -53,3 +53,4 @@ if __name__ == '__main__':
         mean_latent = None
 
     generate(args, g_ema, device, mean_latent)
+
